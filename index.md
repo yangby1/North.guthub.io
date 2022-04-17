@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to North'Home
 
 You can use the [editor on GitHub](https://github.com/yangby1/North.guthub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
